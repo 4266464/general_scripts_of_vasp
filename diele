@@ -1,0 +1,599 @@
+0Cs2AgInCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2AgInCl6/diele/OUTCAR- --
+0Cs2AgInCl6/diele/OUTCAR-           4.011022     0.000000     0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000     4.011022    -0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000     0.000000     4.011022
+--
+0Cs2AgInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2AgInCl6/diele/OUTCAR- --
+0Cs2AgInCl6/diele/OUTCAR-           3.705654    -0.000000     0.000000
+0Cs2AgInCl6/diele/OUTCAR-          -0.000000     3.705654     0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000    -0.000000     3.705654
+--
+0Cs2AgInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2AgInCl6/diele/OUTCAR- --
+0Cs2AgInCl6/diele/OUTCAR-           3.705654    -0.000000     0.000000
+0Cs2AgInCl6/diele/OUTCAR-          -0.000000     3.705654     0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000    -0.000000     3.705654
+--
+0Cs2AgInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2AgInCl6/diele/OUTCAR- --
+0Cs2AgInCl6/diele/OUTCAR-           8.164517     0.000000     0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000     8.167974    -0.000000
+0Cs2AgInCl6/diele/OUTCAR-           0.000000    -0.000000     8.167055
+--
+0Cs2HfCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2HfCl6/diele/OUTCAR- --
+0Cs2HfCl6/diele/OUTCAR-           3.248475    -0.000000     0.000000
+0Cs2HfCl6/diele/OUTCAR-           0.000000     3.248475     0.000000
+0Cs2HfCl6/diele/OUTCAR-          -0.000000    -0.000000     3.248475
+--
+0Cs2HfCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2HfCl6/diele/OUTCAR- --
+0Cs2HfCl6/diele/OUTCAR-           2.723792     0.000000    -0.000000
+0Cs2HfCl6/diele/OUTCAR-           0.000000     2.723792     0.000000
+0Cs2HfCl6/diele/OUTCAR-          -0.000000     0.000000     2.723792
+--
+0Cs2HfCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2HfCl6/diele/OUTCAR- --
+0Cs2HfCl6/diele/OUTCAR-           2.723792     0.000000    -0.000000
+0Cs2HfCl6/diele/OUTCAR-           0.000000     2.723792     0.000000
+0Cs2HfCl6/diele/OUTCAR-          -0.000000     0.000000     2.723792
+--
+0Cs2HfCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2HfCl6/diele/OUTCAR- --
+0Cs2HfCl6/diele/OUTCAR-           2.842851     0.000000     0.000000
+0Cs2HfCl6/diele/OUTCAR-           0.000000     2.841736    -0.000000
+0Cs2HfCl6/diele/OUTCAR-           0.000000    -0.000000     2.842682
+--
+0Cs2KInCl6c2h/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2KInCl6c2h/diele/OUTCAR- --
+0Cs2KInCl6c2h/diele/OUTCAR-           3.116466     0.000000    -0.012013
+0Cs2KInCl6c2h/diele/OUTCAR-           0.000000     3.128143     0.000000
+0Cs2KInCl6c2h/diele/OUTCAR-          -0.012000     0.000000     3.118383
+--
+0Cs2KInCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2KInCl6c2h/diele/OUTCAR- --
+0Cs2KInCl6c2h/diele/OUTCAR-           2.773593     0.000000    -0.009062
+0Cs2KInCl6c2h/diele/OUTCAR-           0.000000     2.776956     0.000000
+0Cs2KInCl6c2h/diele/OUTCAR-          -0.009051     0.000000     2.756796
+--
+0Cs2KInCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2KInCl6c2h/diele/OUTCAR- --
+0Cs2KInCl6c2h/diele/OUTCAR-           2.773593     0.000000    -0.009062
+0Cs2KInCl6c2h/diele/OUTCAR-           0.000000     2.776956     0.000000
+0Cs2KInCl6c2h/diele/OUTCAR-          -0.009051     0.000000     2.756796
+--
+0Cs2KInCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2KInCl6c2h/diele/OUTCAR- --
+0Cs2KInCl6c2h/diele/OUTCAR-           3.233949     0.000000    -0.063633
+0Cs2KInCl6c2h/diele/OUTCAR-           0.000000     8.113205    -0.000000
+0Cs2KInCl6c2h/diele/OUTCAR-          -0.063633    -0.000000     6.832658
+--
+0Cs2KInCl6oh/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2KInCl6oh/diele/OUTCAR- --
+0Cs2KInCl6oh/diele/OUTCAR-           2.975369    -0.000000    -0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000     2.975369     0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000     0.000000     2.975369
+--
+0Cs2KInCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2KInCl6oh/diele/OUTCAR- --
+0Cs2KInCl6oh/diele/OUTCAR-           2.633947     0.000000     0.000000
+0Cs2KInCl6oh/diele/OUTCAR-          -0.000000     2.633947    -0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000    -0.000000     2.633947
+--
+0Cs2KInCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2KInCl6oh/diele/OUTCAR- --
+0Cs2KInCl6oh/diele/OUTCAR-           2.633947     0.000000     0.000000
+0Cs2KInCl6oh/diele/OUTCAR-          -0.000000     2.633947    -0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000    -0.000000     2.633947
+--
+0Cs2KInCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2KInCl6oh/diele/OUTCAR- --
+0Cs2KInCl6oh/diele/OUTCAR-           5.476925     0.000000     0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000     5.472773    -0.000000
+0Cs2KInCl6oh/diele/OUTCAR-           0.000000    -0.000000     5.474157
+--
+0Cs2NaBiCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2NaBiCl6/diele/OUTCAR- --
+0Cs2NaBiCl6/diele/OUTCAR-           3.499955    -0.000000    -0.000000
+0Cs2NaBiCl6/diele/OUTCAR-           0.000000     3.499955    -0.000000
+0Cs2NaBiCl6/diele/OUTCAR-           0.000000     0.000000     3.499955
+--
+0Cs2NaBiCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaBiCl6/diele/OUTCAR- --
+0Cs2NaBiCl6/diele/OUTCAR-           2.960587    -0.000000     0.000000
+0Cs2NaBiCl6/diele/OUTCAR-          -0.000000     2.960587    -0.000000
+0Cs2NaBiCl6/diele/OUTCAR-          -0.000000    -0.000000     2.960587
+--
+0Cs2NaBiCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaBiCl6/diele/OUTCAR- --
+0Cs2NaBiCl6/diele/OUTCAR-           2.960587    -0.000000     0.000000
+0Cs2NaBiCl6/diele/OUTCAR-          -0.000000     2.960587    -0.000000
+0Cs2NaBiCl6/diele/OUTCAR-          -0.000000    -0.000000     2.960587
+--
+0Cs2NaBiCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2NaBiCl6/diele/OUTCAR- --
+0Cs2NaBiCl6/diele/OUTCAR-           5.037196     0.000000     0.000000
+0Cs2NaBiCl6/diele/OUTCAR-           0.000000     5.035028    -0.000000
+0Cs2NaBiCl6/diele/OUTCAR-           0.000000    -0.000000     5.035884
+--
+0Cs2NaInCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2NaInCl6/diele/OUTCAR- --
+0Cs2NaInCl6/diele/OUTCAR-           3.179948     0.000000     0.000000
+0Cs2NaInCl6/diele/OUTCAR-           0.000000     3.179948     0.000000
+0Cs2NaInCl6/diele/OUTCAR-          -0.000000     0.000000     3.179948
+--
+0Cs2NaInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaInCl6/diele/OUTCAR- --
+0Cs2NaInCl6/diele/OUTCAR-           2.822174    -0.000000     0.000000
+0Cs2NaInCl6/diele/OUTCAR-          -0.000000     2.822174     0.000000
+0Cs2NaInCl6/diele/OUTCAR-          -0.000000     0.000000     2.822174
+--
+0Cs2NaInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaInCl6/diele/OUTCAR- --
+0Cs2NaInCl6/diele/OUTCAR-           2.822174    -0.000000     0.000000
+0Cs2NaInCl6/diele/OUTCAR-          -0.000000     2.822174     0.000000
+0Cs2NaInCl6/diele/OUTCAR-          -0.000000     0.000000     2.822174
+--
+0Cs2NaInCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2NaInCl6/diele/OUTCAR- --
+0Cs2NaInCl6/diele/OUTCAR-           3.615757     0.000000     0.000000
+0Cs2NaInCl6/diele/OUTCAR-           0.000000     3.604062    -0.000000
+0Cs2NaInCl6/diele/OUTCAR-           0.000000    -0.000000     3.616192
+--
+0Cs2NaLaCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2NaLaCl6/diele/OUTCAR- --
+0Cs2NaLaCl6/diele/OUTCAR-           2.982478     0.000000     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-          -0.000000     2.982478     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000    -0.000000     2.982478
+--
+0Cs2NaLaCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaLaCl6/diele/OUTCAR- --
+0Cs2NaLaCl6/diele/OUTCAR-           2.645890    -0.000000     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     2.645890    -0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     0.000000     2.645890
+--
+0Cs2NaLaCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaLaCl6/diele/OUTCAR- --
+0Cs2NaLaCl6/diele/OUTCAR-           2.645890    -0.000000     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     2.645890    -0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     0.000000     2.645890
+--
+0Cs2NaLaCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2NaLaCl6/diele/OUTCAR- --
+0Cs2NaLaCl6/diele/OUTCAR-           5.109832     0.000000     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     5.107989     0.000000
+0Cs2NaLaCl6/diele/OUTCAR-           0.000000     0.000000     5.110219
+--
+0Cs2NaScCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2NaScCl6/diele/OUTCAR- --
+0Cs2NaScCl6/diele/OUTCAR-           3.250297     0.000000    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-           0.000000     3.250297    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-          -0.000000     0.000000     3.250297
+--
+0Cs2NaScCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaScCl6/diele/OUTCAR- --
+0Cs2NaScCl6/diele/OUTCAR-           2.854143    -0.000000    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-           0.000000     2.854143    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-           0.000000     0.000000     2.854143
+--
+0Cs2NaScCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaScCl6/diele/OUTCAR- --
+0Cs2NaScCl6/diele/OUTCAR-           2.854143    -0.000000    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-           0.000000     2.854143    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-           0.000000     0.000000     2.854143
+--
+0Cs2NaScCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2NaScCl6/diele/OUTCAR- --
+0Cs2NaScCl6/diele/OUTCAR-           3.828671    -0.000000    -0.000000
+0Cs2NaScCl6/diele/OUTCAR-          -0.000000     3.833300     0.000000
+0Cs2NaScCl6/diele/OUTCAR-          -0.000000     0.000000     3.828772
+--
+0Cs2NaYCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2NaYCl6/diele/OUTCAR- --
+0Cs2NaYCl6/diele/OUTCAR-           3.023614     0.000000    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-           0.000000     3.023614     0.000000
+0Cs2NaYCl6/diele/OUTCAR-          -0.000000     0.000000     3.023614
+--
+0Cs2NaYCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaYCl6/diele/OUTCAR- --
+0Cs2NaYCl6/diele/OUTCAR-           2.688274    -0.000000    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-          -0.000000     2.688274    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-           0.000000     0.000000     2.688274
+--
+0Cs2NaYCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2NaYCl6/diele/OUTCAR- --
+0Cs2NaYCl6/diele/OUTCAR-           2.688274    -0.000000    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-          -0.000000     2.688274    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-           0.000000     0.000000     2.688274
+--
+0Cs2NaYCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2NaYCl6/diele/OUTCAR- --
+0Cs2NaYCl6/diele/OUTCAR-           4.354276     0.000000     0.000000
+0Cs2NaYCl6/diele/OUTCAR-           0.000000     4.348082    -0.000000
+0Cs2NaYCl6/diele/OUTCAR-           0.000000    -0.000000     4.352404
+--
+0Cs2SnCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2SnCl6/diele/OUTCAR- --
+0Cs2SnCl6/diele/OUTCAR-           3.241469     0.000000     0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000     3.241469     0.000000
+0Cs2SnCl6/diele/OUTCAR-          -0.000000    -0.000000     3.241469
+--
+0Cs2SnCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2SnCl6/diele/OUTCAR- --
+0Cs2SnCl6/diele/OUTCAR-           2.750102     0.000000    -0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000     2.750102     0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000    -0.000000     2.750102
+--
+0Cs2SnCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2SnCl6/diele/OUTCAR- --
+0Cs2SnCl6/diele/OUTCAR-           2.750102     0.000000    -0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000     2.750102     0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000    -0.000000     2.750102
+--
+0Cs2SnCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2SnCl6/diele/OUTCAR- --
+0Cs2SnCl6/diele/OUTCAR-           2.239014     0.000000     0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000     2.231093    -0.000000
+0Cs2SnCl6/diele/OUTCAR-           0.000000    -0.000000     2.230876
+--
+0Cs2ZrCl6/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs2ZrCl6/diele/OUTCAR- --
+0Cs2ZrCl6/diele/OUTCAR-           3.308140    -0.000000    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-          -0.000000     3.308140    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-           0.000000     0.000000     3.308140
+--
+0Cs2ZrCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2ZrCl6/diele/OUTCAR- --
+0Cs2ZrCl6/diele/OUTCAR-           2.732388    -0.000000    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-          -0.000000     2.732388    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-           0.000000     0.000000     2.732388
+--
+0Cs2ZrCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs2ZrCl6/diele/OUTCAR- --
+0Cs2ZrCl6/diele/OUTCAR-           2.732388    -0.000000    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-          -0.000000     2.732388    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-           0.000000     0.000000     2.732388
+--
+0Cs2ZrCl6/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs2ZrCl6/diele/OUTCAR- --
+0Cs2ZrCl6/diele/OUTCAR-           2.897019     0.000000     0.000000
+0Cs2ZrCl6/diele/OUTCAR-           0.000000     2.896642    -0.000000
+0Cs2ZrCl6/diele/OUTCAR-           0.000000    -0.000000     2.897308
+--
+0KCl/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0KCl/diele/OUTCAR- --
+0KCl/diele/OUTCAR-           2.528163     0.000000    -0.000000
+0KCl/diele/OUTCAR-          -0.000000     2.528163     0.000000
+0KCl/diele/OUTCAR-           0.000000     0.000000     2.528163
+--
+0KCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0KCl/diele/OUTCAR- --
+0KCl/diele/OUTCAR-           2.283064     0.000000    -0.000000
+0KCl/diele/OUTCAR-          -0.000000     2.283064    -0.000000
+0KCl/diele/OUTCAR-           0.000000    -0.000000     2.283064
+--
+0KCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0KCl/diele/OUTCAR- --
+0KCl/diele/OUTCAR-           2.283064     0.000000    -0.000000
+0KCl/diele/OUTCAR-          -0.000000     2.283064    -0.000000
+0KCl/diele/OUTCAR-           0.000000    -0.000000     2.283064
+--
+0KCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0KCl/diele/OUTCAR- --
+0KCl/diele/OUTCAR-           3.602045    -0.000000    -0.000000
+0KCl/diele/OUTCAR-          -0.000000     3.604003    -0.000000
+0KCl/diele/OUTCAR-          -0.000000    -0.000000     3.602165
+--
+0NaCl/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0NaCl/diele/OUTCAR- --
+0NaCl/diele/OUTCAR-           2.724481    -0.000000    -0.000000
+0NaCl/diele/OUTCAR-           0.000000     2.724481    -0.000000
+0NaCl/diele/OUTCAR-           0.000000    -0.000000     2.724481
+--                 -
+0NaCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0NaCl/diele/OUTCAR- --
+0NaCl/diele/OUTCAR-           2.480926     0.000000     0.000000
+0NaCl/diele/OUTCAR-           0.000000     2.480926    -0.000000
+0NaCl/diele/OUTCAR-          -0.000000     0.000000     2.480926
+--                 -
+0NaCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0NaCl/diele/OUTCAR- --
+0NaCl/diele/OUTCAR-           2.480926     0.000000     0.000000
+0NaCl/diele/OUTCAR-           0.000000     2.480926    -0.000000
+0NaCl/diele/OUTCAR-          -0.000000     0.000000     2.480926
+--                 -
+0NaCl/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0NaCl/diele/OUTCAR- --
+0NaCl/diele/OUTCAR-           3.234284     0.000000     0.000000
+0NaCl/diele/OUTCAR-           0.000000     3.233642     0.000000
+0NaCl/diele/OUTCAR-           0.000000     0.000000     3.234258
+--
+0Rb3InCl6c2h/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Rb3InCl6c2h/diele/OUTCAR- --
+0Rb3InCl6c2h/diele/OUTCAR-           3.103645     0.000000     0.007519
+0Rb3InCl6c2h/diele/OUTCAR-           0.000000     3.086258     0.000000
+0Rb3InCl6c2h/diele/OUTCAR-           0.007513     0.000000     3.085356
+--
+0Rb3InCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Rb3InCl6c2h/diele/OUTCAR- --
+0Rb3InCl6c2h/diele/OUTCAR-           2.762831     0.000000     0.005911
+0Rb3InCl6c2h/diele/OUTCAR-           0.000000     2.726515     0.000000
+0Rb3InCl6c2h/diele/OUTCAR-           0.005903     0.000000     2.740534
+--
+0Rb3InCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Rb3InCl6c2h/diele/OUTCAR- --
+0Rb3InCl6c2h/diele/OUTCAR-           2.762831     0.000000     0.005911
+0Rb3InCl6c2h/diele/OUTCAR-           0.000000     2.726515     0.000000
+0Rb3InCl6c2h/diele/OUTCAR-           0.005903     0.000000     2.740534
+--
+0Rb3InCl6c2h/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Rb3InCl6c2h/diele/OUTCAR- --
+0Rb3InCl6c2h/diele/OUTCAR-           3.967602    -0.000000     0.201896
+0Rb3InCl6c2h/diele/OUTCAR-          -0.000000     6.335155     0.000000
+0Rb3InCl6c2h/diele/OUTCAR-           0.201896     0.000000     5.387502
+--
+0Rb3InCl6oh/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Rb3InCl6oh/diele/OUTCAR- --
+0Rb3InCl6oh/diele/OUTCAR-           2.808499    -0.000000    -0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000     2.808499    -0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000     0.000000     2.808499
+--
+0Rb3InCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Rb3InCl6oh/diele/OUTCAR- --
+0Rb3InCl6oh/diele/OUTCAR-           2.489253     0.000000    -0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000     2.489253     0.000000
+0Rb3InCl6oh/diele/OUTCAR-          -0.000000     0.000000     2.489253
+--
+0Rb3InCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Rb3InCl6oh/diele/OUTCAR- --
+0Rb3InCl6oh/diele/OUTCAR-           2.489253     0.000000    -0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000     2.489253     0.000000
+0Rb3InCl6oh/diele/OUTCAR-          -0.000000     0.000000     2.489253
+--
+0Rb3InCl6oh/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Rb3InCl6oh/diele/OUTCAR- --
+0Rb3InCl6oh/diele/OUTCAR-           6.160918     0.000000     0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000     6.159961    -0.000000
+0Rb3InCl6oh/diele/OUTCAR-           0.000000    -0.000000     6.158032
+--
+0Cs3Bi2Cl9/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+0Cs3Bi2Cl9/diele/OUTCAR- --
+0Cs3Bi2Cl9/diele/OUTCAR-           4.134352     0.000000     0.007947
+0Cs3Bi2Cl9/diele/OUTCAR-           0.000000     4.062714     0.000000
+0Cs3Bi2Cl9/diele/OUTCAR-           0.007912     0.000000     4.134539
+--
+0Cs3Bi2Cl9/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs3Bi2Cl9/diele/OUTCAR- --
+0Cs3Bi2Cl9/diele/OUTCAR-           3.472151     0.000000     0.006746
+0Cs3Bi2Cl9/diele/OUTCAR-           0.000000     3.407807     0.000000
+0Cs3Bi2Cl9/diele/OUTCAR-           0.006733     0.000000     3.470044
+--
+0Cs3Bi2Cl9/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+0Cs3Bi2Cl9/diele/OUTCAR- --
+0Cs3Bi2Cl9/diele/OUTCAR-           3.472151     0.000000     0.006746
+0Cs3Bi2Cl9/diele/OUTCAR-           0.000000     3.407807     0.000000
+0Cs3Bi2Cl9/diele/OUTCAR-           0.006733     0.000000     3.470044
+--
+0Cs3Bi2Cl9/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+0Cs3Bi2Cl9/diele/OUTCAR- --
+0Cs3Bi2Cl9/diele/OUTCAR-           4.289566    -0.000041    -0.035347
+0Cs3Bi2Cl9/diele/OUTCAR-          -0.000041     4.208779     0.000051
+0Cs3Bi2Cl9/diele/OUTCAR-          -0.035347     0.000051     4.129183
+--
+bao/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+bao/diele/OUTCAR- --
+bao/diele/OUTCAR-           3.432081    -0.000000     0.000000
+bao/diele/OUTCAR-          -0.000000     3.432081     0.000000
+bao/diele/OUTCAR-           0.000000     0.000000     3.416932
+--
+bao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+bao/diele/OUTCAR- --
+bao/diele/OUTCAR-           3.346168     0.000000     0.000000
+bao/diele/OUTCAR-          -0.000000     3.346168     0.000000
+bao/diele/OUTCAR-           0.000000     0.000000     3.334826
+--
+bao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+bao/diele/OUTCAR- --
+bao/diele/OUTCAR-           3.346168     0.000000     0.000000
+bao/diele/OUTCAR-          -0.000000     3.346168     0.000000
+bao/diele/OUTCAR-           0.000000     0.000000     3.334826
+--
+bao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+bao/diele/OUTCAR- --
+bao/diele/OUTCAR-           6.633283    -0.000000    -0.000012
+bao/diele/OUTCAR-          -0.000000     6.633583    -0.000034
+bao/diele/OUTCAR-          -0.000012    -0.000034     8.169975
+--
+cao/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+cao/diele/OUTCAR- --
+cao/diele/OUTCAR-           3.339161    -0.000003     0.000000
+cao/diele/OUTCAR-           0.000003     3.339161    -0.000000
+cao/diele/OUTCAR-           0.000000     0.000000     3.320253
+--
+cao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+cao/diele/OUTCAR- --
+cao/diele/OUTCAR-           3.259395    -0.000002     0.000000
+cao/diele/OUTCAR-           0.000002     3.259395     0.000000
+cao/diele/OUTCAR-           0.000000     0.000000     3.246773
+--
+cao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+cao/diele/OUTCAR- --
+cao/diele/OUTCAR-           3.259395    -0.000002     0.000000
+cao/diele/OUTCAR-           0.000002     3.259395     0.000000
+cao/diele/OUTCAR-           0.000000     0.000000     3.246773
+--
+cao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+cao/diele/OUTCAR- --
+cao/diele/OUTCAR-          10.494469     0.001057    -0.000043
+cao/diele/OUTCAR-           0.001057    10.495904    -0.000044
+cao/diele/OUTCAR-          -0.000043    -0.000044    13.545108
+--
+sao/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+sao/diele/OUTCAR- --
+sao/diele/OUTCAR-           3.339826     0.000000     0.000000
+sao/diele/OUTCAR-           0.000000     3.339826    -0.000000
+sao/diele/OUTCAR-          -0.000000     0.000000     3.327442
+--
+sao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+sao/diele/OUTCAR- --
+sao/diele/OUTCAR-           3.260902    -0.000000     0.000000
+sao/diele/OUTCAR-           0.000000     3.260902     0.000000
+sao/diele/OUTCAR-           0.000000    -0.000000     3.255337
+--
+sao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+sao/diele/OUTCAR- --
+sao/diele/OUTCAR-           3.260902    -0.000000     0.000000
+sao/diele/OUTCAR-           0.000000     3.260902     0.000000
+sao/diele/OUTCAR-           0.000000    -0.000000     3.255337
+--
+sao/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+sao/diele/OUTCAR- --
+sao/diele/OUTCAR-           6.694602    -0.000000    -0.000000
+sao/diele/OUTCAR-          -0.000000     6.695072     0.000000
+sao/diele/OUTCAR-          -0.000000     0.000000    84.701082
+--
+Al2O31/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+Al2O31/diele/OUTCAR-  --
+Al2O31/diele/OUTCAR-            3.341446    -0.017464    -0.011940
+Al2O31/diele/OUTCAR-           -0.017464     3.365658    -0.006251
+Al2O31/diele/OUTCAR-           -0.011940    -0.006251     3.370528
+--
+Al2O31/diele/OUTCAR:  MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+Al2O31/diele/OUTCAR-  --
+Al2O31/diele/OUTCAR-            3.248574    -0.014457    -0.009884
+Al2O31/diele/OUTCAR-           -0.014457     3.268617    -0.005175
+Al2O31/diele/OUTCAR-           -0.009884    -0.005175     3.272649
+--
+Al2O31/diele/OUTCAR:  MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in DFT)
+Al2O31/diele/OUTCAR-  --
+Al2O31/diele/OUTCAR-            3.248574    -0.014457    -0.009884
+Al2O31/diele/OUTCAR-           -0.014457     3.268617    -0.005175
+Al2O31/diele/OUTCAR-           -0.009884    -0.005175     3.272649
+--
+Al2O31/diele/OUTCAR:  MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+Al2O31/diele/OUTCAR-  --
+Al2O31/diele/OUTCAR-            7.715683     0.774012     0.529176
+Al2O31/diele/OUTCAR-            0.774012     6.642608     0.277060
+Al2O31/diele/OUTCAR-            0.529176     0.277060     6.426784
+--
+Al2O3/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+Al2O3/diele/OUTCAR- --
+Al2O3/diele/OUTCAR-           3.341352    -0.017452    -0.011932
+Al2O3/diele/OUTCAR-          -0.017452     3.365548    -0.006247
+Al2O3/diele/OUTCAR-          -0.011932    -0.006247     3.370414
+--
+Al2O3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+Al2O3/diele/OUTCAR- --
+Al2O3/diele/OUTCAR-           3.094978    -0.012879    -0.008805
+Al2O3/diele/OUTCAR-          -0.012879     3.112833    -0.004610
+Al2O3/diele/OUTCAR-          -0.008805    -0.004610     3.116424
+--
+Al2O3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+Al2O3/diele/OUTCAR- --
+Al2O3/diele/OUTCAR-           3.094978    -0.012879    -0.008805
+Al2O3/diele/OUTCAR-          -0.012879     3.112833    -0.004610
+Al2O3/diele/OUTCAR-          -0.008805    -0.004610     3.116424
+--
+Al2O3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+Al2O3/diele/OUTCAR- --
+Al2O3/diele/OUTCAR-           7.715476     0.774040     0.529195
+Al2O3/diele/OUTCAR-           0.774040     6.642367     0.277069
+Al2O3/diele/OUTCAR-           0.529195     0.277069     6.426535
+--
+MgO/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+MgO/diele/OUTCAR- --
+MgO/diele/OUTCAR-           3.250656    -0.000000     0.000000
+MgO/diele/OUTCAR-          -0.000000     3.250656     0.000000
+MgO/diele/OUTCAR-           0.000000     0.000000     3.250656
+--
+MgO/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgO/diele/OUTCAR- --
+MgO/diele/OUTCAR-           3.001657    -0.000000     0.000000
+MgO/diele/OUTCAR-          -0.000000     3.001657     0.000000
+MgO/diele/OUTCAR-           0.000000     0.000000     3.001657
+--
+MgO/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgO/diele/OUTCAR- --
+MgO/diele/OUTCAR-           3.001657    -0.000000     0.000000
+MgO/diele/OUTCAR-          -0.000000     3.001657     0.000000
+MgO/diele/OUTCAR-           0.000000     0.000000     3.001657
+--
+MgO/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+MgO/diele/OUTCAR- --
+MgO/diele/OUTCAR-           6.844736     0.000000    -0.000000
+MgO/diele/OUTCAR-           0.000000     6.844723     0.000001
+MgO/diele/OUTCAR-          -0.000000     0.000001     6.844710
+--
+MgAl2O4/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+MgAl2O4/diele/OUTCAR- --
+MgAl2O4/diele/OUTCAR-           3.194455     0.000000     0.000000
+MgAl2O4/diele/OUTCAR-           0.000000     3.194455    -0.000000
+MgAl2O4/diele/OUTCAR-           0.000000    -0.000000     3.194455
+--
+MgAl2O4/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgAl2O4/diele/OUTCAR- --
+MgAl2O4/diele/OUTCAR-           2.929065     0.000000     0.000000
+MgAl2O4/diele/OUTCAR-           0.000000     2.929065    -0.000000
+MgAl2O4/diele/OUTCAR-           0.000000    -0.000000     2.929065
+--
+MgAl2O4/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgAl2O4/diele/OUTCAR- --
+MgAl2O4/diele/OUTCAR-           2.929065     0.000000     0.000000
+MgAl2O4/diele/OUTCAR-           0.000000     2.929065    -0.000000
+MgAl2O4/diele/OUTCAR-           0.000000    -0.000000     2.929065
+--
+MgAl2O4/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+MgAl2O4/diele/OUTCAR- --
+MgAl2O4/diele/OUTCAR-           5.089988     0.000000     0.000000
+MgAl2O4/diele/OUTCAR-           0.000000     5.090006    -0.000001
+MgAl2O4/diele/OUTCAR-           0.000000    -0.000001     5.089999
+--
+MgF2/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+MgF2/diele/OUTCAR- --
+MgF2/diele/OUTCAR-           2.019130     0.000000     0.000000
+MgF2/diele/OUTCAR-           0.000000     2.019130     0.000000
+MgF2/diele/OUTCAR-           0.000000     0.000000     2.062025
+--
+MgF2/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgF2/diele/OUTCAR- --
+MgF2/diele/OUTCAR-           1.908089    -0.000000     0.000000
+MgF2/diele/OUTCAR-           0.000000     1.908089     0.000000
+MgF2/diele/OUTCAR-           0.000000     0.000000     1.934471
+--
+MgF2/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+MgF2/diele/OUTCAR- --
+MgF2/diele/OUTCAR-           1.908089    -0.000000     0.000000
+MgF2/diele/OUTCAR-           0.000000     1.908089     0.000000
+MgF2/diele/OUTCAR-           0.000000     0.000000     1.934471
+--
+MgF2/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+MgF2/diele/OUTCAR- --
+MgF2/diele/OUTCAR-           3.603518    -0.000000    -0.000000
+MgF2/diele/OUTCAR-          -0.000000     3.603513    -0.000000
+MgF2/diele/OUTCAR-          -0.000000    -0.000000     2.668139
+--
+KMgF3/diele/OUTCAR: HEAD OF MICROSCOPIC STATIC DIELECTRIC TENSOR (INDEPENDENT PARTICLE, excluding Hartree and local field effects)
+KMgF3/diele/OUTCAR- --
+KMgF3/diele/OUTCAR-           2.176144     0.000000    -0.000000
+KMgF3/diele/OUTCAR-           0.000000     2.176144    -0.000000
+KMgF3/diele/OUTCAR-           0.000000    -0.000000     2.176144
+--
+KMgF3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+KMgF3/diele/OUTCAR- --
+KMgF3/diele/OUTCAR-           2.008572    -0.000000    -0.000000
+KMgF3/diele/OUTCAR-          -0.000000     2.008572     0.000000
+KMgF3/diele/OUTCAR-           0.000000    -0.000000     2.008572
+--
+KMgF3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR (including local field effects in RPA (Hartree))
+KMgF3/diele/OUTCAR- --
+KMgF3/diele/OUTCAR-           2.008572    -0.000000    -0.000000
+KMgF3/diele/OUTCAR-          -0.000000     2.008572     0.000000
+KMgF3/diele/OUTCAR-           0.000000    -0.000000     2.008572
+--
+KMgF3/diele/OUTCAR: MACROSCOPIC STATIC DIELECTRIC TENSOR IONIC CONTRIBUTION
+KMgF3/diele/OUTCAR- --
+KMgF3/diele/OUTCAR-           4.638460    -0.000000     0.000000
+KMgF3/diele/OUTCAR-          -0.000000     4.638467    -0.000000
+KMgF3/diele/OUTCAR-           0.000000    -0.000000     4.638456

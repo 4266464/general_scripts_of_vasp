@@ -1,0 +1,11 @@
+K-Label    K-Coordinate in band-structure plots 
+GAMMA              0.000
+X                  0.603
+U|K                0.816
+GAMMA              1.455
+L                  1.976
+W                  2.402
+X                  2.704
+ 
+ 
+* Give the label for each high symmetry point in KPOINTS (KPATH.in) file. Otherwise, they will be identified as 'Undefined' in KLABELS file
