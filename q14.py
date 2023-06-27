@@ -2097,7 +2097,7 @@ class jobs:
                         for j in i.bundle:
                             p.read(j.detail["path"] + "/CONTCAR")
                             current_nei = []
-                            for k in p.env((match_result.group(1), int(match_result.group(2))), 2, False):
+                            for k in p.environment((match_result.group(1), int(match_result.group(2))), 2):
                                 if k[1] < i.detail["range"]:
                                     current_nei.append(k)
                                 else:

@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
     elif args.manipulate==["env"]:
         string=""
-        for i in p.env(p.label[args.atom_number], 0.1):
+        for i in p.environment(p.label[args.atom_number], 0.1):
             string += f"{i[0]} "
             for j in i[1]:
                 string+=f"{j} "

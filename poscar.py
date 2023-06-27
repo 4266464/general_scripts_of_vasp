@@ -53,7 +53,8 @@ class Poscar:
             self.element = np.array(split_and_filter(poscar.readline()))
             self.number = np.array(split_and_filter(poscar.readline())).astype(int)
             # label for every atom (element of the atom, index of the atom in the element list)
-            self.label = np.concatenate([np.array([[element, i] for i in range(number)])])
+            self.label = np.array(list(zip(np.repeat(self.element, self.number),
+                                           sum([list(range(_number)) for _number in self.number], []))))
             self.name = "".join([_element + ("" if _number == 1 else str(_number))
                                  for _element, _number in zip(self.element, self.number)])
 
@@ -194,17 +195,16 @@ class Poscar:
         assert position.shape == (3,), \
             f"the shape of the array should be (3,), but {position.shape} is given."
 
-        # calculate the distance from the position
-        distance = np.linalg.norm(self.move(position, True).position, axis=1)
+        # set position as (0, 0, 0) and calculate the distance from the position
+        distance = np.linalg.norm(self.move(-position, True).position.dot(self.lattice), axis=1)
         # sort by distance
         argsort = distance.argsort()
         distance = distance[argsort]
-        print(self.label)
         label = self.label[argsort]
         return distance, label
 
     # TODO: need tags
-    def env(self, site, prec=0.1):
+    def environment(self, site, prec=0.1):
         env_tuple = namedtuple(
             "env_tuple", ["distance", "counter", "specific_site"])
         env_list = []
@@ -238,9 +238,9 @@ class Poscar:
         site_list = []
         for label in self.label:
             if element == label[0]:
-                env = self.env(label, prec)[:nei]
+                env = self.environment(label, prec)[:nei]
                 for site in site_list:
-                    if self.same_site(env, site.env):
+                    if self.same_site(env, site.environment):
                         site.specific_site.append(label)
                         break
                 else:
@@ -260,7 +260,7 @@ class Poscar:
         aposcar = Poscar(self)
         aposcar.position = np.zeros((len(aposcar.position), 3))
         aposcar.coordinate = "C"
-        env = self.env(site, 0.1)
+        env = self.environment(site, 0.1)
         for neighbours in env[:nei]:
             for label in neighbours.specific_site:
                 vector = np.array([random.random() for _ in range(3)]) - .5
@@ -317,11 +317,11 @@ class Poscar:
                 if count > 500:
                     break
 
-            current_env = self.env(current_site, prec)[:2]
+            current_env = self.environment(current_site, prec)[:2]
             # 是否是重复的格位
 
             for inter_site in inter_list:
-                if self.same_site(inter_site.env, current_env):
+                if self.same_site(inter_site.environment, current_env):
                     inter_site.counter[0] += 1
                     break
             else:
@@ -429,7 +429,7 @@ class Poscar:
         aposcar = aposcar + \
                   (0.5 - aposcar.position[aposcar.label.index((center_atom, 1))])
         aposcar = aposcar.d2c()
-        centered_env = aposcar.env((center_atom, 1), prec=0.1)
+        centered_env = aposcar.environment((center_atom, 1), prec=0.1)
         actual_number = False
         sphere_position = []
         sphere_element = []
@@ -493,7 +493,7 @@ if __name__ == '__main__':
     # print(p_mul.position - (random_matrix * 1.3))
 
     # test distance
-    distance, label = p.distance([0.5, 0.5, 0.5])
+    distance, label = p.distance(p.position[0])
     print(distance)
     print(label)
 
